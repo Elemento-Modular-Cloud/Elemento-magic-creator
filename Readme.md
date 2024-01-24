@@ -1,6 +1,10 @@
 # Architecture
 ![Architecture](images/architecture.png)
 
+# Via API
+
+`curl http://146.59.207.105:8080/api/v1/specs/{name_software}`
+
 # API endpoints e pipeline
 
 ### 1. GET …:5000/api/v1/get-specs?name={…}
